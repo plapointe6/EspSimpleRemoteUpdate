@@ -1,0 +1,19 @@
+{
+  "name":"EspSimpleRemoteUpdate",
+  "description":"Simple remote update handling for ESP8266/ESP32",
+  "keywords":"update,wifi,iot",
+  "authors": [
+    {
+      "name": "Patrick Lapointe",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/plapointe6/EspSimpleRemoteUpdate.git"
+  },
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": ["espressif8266", "espressif32"]
+}

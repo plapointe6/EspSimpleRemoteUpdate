@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For EspSimpleMQTTClient
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EspSimpleRemoteUpdate KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+enableDebuggingMessages     KEYWORD2
+setHostname                 KEYWORD2
+enableHTTPWebUpdater        KEYWORD2
+enableOTA                   KEYWORD2
+handle                      KEYWORD2
+
