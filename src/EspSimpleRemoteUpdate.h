@@ -77,7 +77,7 @@ public:
         }
     }
 
-    void enableOTA(const char* password, const uint16_t port = 0) {
+    void enableOTA(const char* password = NULL, const uint16_t port = 0) {
         if(_enableDebugMessages)
             Serial.printf("UPDATER: Enabling Arduino OTA ...\n");
 
